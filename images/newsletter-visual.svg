@@ -1,0 +1,8 @@
+<svg width="770" height="770" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="385" cy="385" r="385" fill="#faf6f0"/>
+  <circle cx="385" cy="385" r="300" fill="#fff" opacity="0.5"/>
+  <circle cx="385" cy="385" r="200" fill="#9e97ff" opacity="0.3"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-family="Arial, sans-serif" font-size="24" fill="#111">
+    Newsletter
+  </text>
+</svg>
